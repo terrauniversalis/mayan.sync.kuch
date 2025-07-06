@@ -1,0 +1,134 @@
+[
+    {
+        "FriendlyName": "MIDI",
+        "InstanceId": "SWD\\MMDEVAPI\\MIDII_0AB1A388.P_0000"
+    },
+    {
+        "FriendlyName": "midiuniversalis [1]",
+        "InstanceId": "SWD\\MMDEVAPI\\MIDII_0AB1A388.P_0004"
+    },
+    {
+        "FriendlyName": "MIDI",
+        "InstanceId": "SWD\\MMDEVAPI\\MIDII_0AB1A38C.P_0000"
+    },
+    {
+        "FriendlyName": "midiwranch_in_0 [1]",
+        "InstanceId": "SWD\\MMDEVAPI\\MIDII_0AB1A38C.P_0004"
+    },
+    {
+        "FriendlyName": "DJCONTROL MIX (Bluetooth MIDI IN)",
+        "InstanceId": "SWD\\MMDEVAPI\\MIDII_A0F07C3D.BLE10"
+    },
+    {
+        "FriendlyName": "iPad (Bluetooth MIDI IN)",
+        "InstanceId": "SWD\\MMDEVAPI\\MIDII_2581EF40.BLE10"
+    },
+    {
+        "FriendlyName": "4 - MIDI",
+        "InstanceId": "SWD\\MMDEVAPI\\MIDII_CE5B8A26.P_0000"
+    },
+    {
+        "FriendlyName": "Bluetooth LE Device 541ac5cc732b (Bluetooth MIDI OUT)",
+        "InstanceId": "SWD\\MMDEVAPI\\MIDII_258FF2B3.BLE10"
+    },
+    {
+        "FriendlyName": "2 - MIDI",
+        "InstanceId": "SWD\\MMDEVAPI\\MIDII_4F84AA2A.P_0001"
+    },
+    {
+        "FriendlyName": "@lfonso.i15 (Bluetooth MIDI IN)",
+        "InstanceId": "SWD\\MMDEVAPI\\MIDII_B1D2E5B5.BLE10"
+    },
+    {
+        "FriendlyName": "Maschine MK2 MIDI",
+        "InstanceId": "NIUSB_ENUM\\NIMC2_AVS\\7&38F7A564&0&0"
+    },
+    {
+        "FriendlyName": "MIDI",
+        "InstanceId": "SWD\\MMDEVAPI\\MIDII_C2D19825.P_0000"
+    },
+    {
+        "FriendlyName": "Bluetooth LE Device 541ac5cc732b (Bluetooth MIDI IN)",
+        "InstanceId": "SWD\\MMDEVAPI\\MIDII_258FF2B2.BLE10"
+    },
+    {
+        "FriendlyName": "@lfonso.i15 (Bluetooth MIDI OUT)",
+        "InstanceId": "SWD\\MMDEVAPI\\MIDII_B1CDE47B.BLE10"
+    },
+    {
+        "FriendlyName": "MIDI",
+        "InstanceId": "SWD\\MMDEVAPI\\MIDII_0AB1A38B.P_0000"
+    },
+    {
+        "FriendlyName": "KOMPLETE KONTROL M32 MIDI",
+        "InstanceId": "USB\\VID_17CC&PID_1860&MI_00\\6&38BAF856&0&0000"
+    },
+    {
+        "FriendlyName": "@lfonso.i15 (Bluetooth MIDI IN)",
+        "InstanceId": "SWD\\MMDEVAPI\\MIDII_B1CDE47A.BLE10"
+    },
+    {
+        "FriendlyName": "MIDI",
+        "InstanceId": "SWD\\MMDEVAPI\\MIDII_3CE1F46E.P_0001"
+    },
+    {
+        "FriendlyName": "UMC404HD 192k MIDI Out [0]",
+        "InstanceId": "SWD\\MMDEVAPI\\MIDII_04A297D6.P_0000"
+    },
+    {
+        "FriendlyName": "UMC404HD 192k MIDI In [0]",
+        "InstanceId": "SWD\\MMDEVAPI\\MIDII_7EE0F87D.P_0001"
+    },
+    {
+        "FriendlyName": "MIDI",
+        "InstanceId": "SWD\\MMDEVAPI\\MIDII_0AB1A389.P_0000"
+    },
+    {
+        "FriendlyName": "loopMIDI Port [1]",
+        "InstanceId": "SWD\\MMDEVAPI\\MIDII_0AB1A389.P_0004"
+    },
+    {
+        "FriendlyName": "KOMPLETE KONTROL M32 MIDI [0]",
+        "InstanceId": "SWD\\MMDEVAPI\\MIDII_2722AA58.P_0000"
+    },
+    {
+        "FriendlyName": "KOMPLETE KONTROL M32 MIDI [1]",
+        "InstanceId": "SWD\\MMDEVAPI\\MIDII_2722AA58.P_0001"
+    },
+    {
+        "FriendlyName": "MIDI",
+        "InstanceId": "SWD\\MMDEVAPI\\MIDII_0AB1A38A.P_0000"
+    },
+    {
+        "FriendlyName": "loopMIDI Port [1]",
+        "InstanceId": "SWD\\MMDEVAPI\\MIDII_0AB1A38A.P_0004"
+    },
+    {
+        "FriendlyName": "2 - MIDI",
+        "InstanceId": "SWD\\MMDEVAPI\\MIDII_0E985169.P_0000"
+    },
+    {
+        "FriendlyName": "DJCONTROL MIX (Bluetooth MIDI OUT)",
+        "InstanceId": "SWD\\MMDEVAPI\\MIDII_A0F07C3E.BLE10"
+    },
+    {
+        "FriendlyName": "Maschine MK2 MIDI",
+        "InstanceId": "NIUSB_ENUM\\NIMC2_AVS\\9&1094DEE8&0&0"
+    },
+    {
+        "FriendlyName": "Traktor Kontrol X1 Midi",
+        "InstanceId": "NIUSB_ENUM\\NIKX1_AVS\\6&2C10BCF6&1&0"
+    },
+    {
+        "FriendlyName": "iPad (Bluetooth MIDI OUT)",
+        "InstanceId": "SWD\\MMDEVAPI\\MIDII_2581EF41.BLE10"
+    },
+    {
+        "FriendlyName": "4 - MIDI",
+        "InstanceId": "SWD\\MMDEVAPI\\MIDII_8436722D.P_0001"
+    },
+    {
+        "FriendlyName": "@lfonso.i15 (Bluetooth MIDI OUT)",
+        "InstanceId": "SWD\\MMDEVAPI\\MIDII_B1D2E5B6.BLE10"
+    }
+]
